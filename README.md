@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @luting1004
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning python
+
+这里是每天练习
  .
 
 <!---
