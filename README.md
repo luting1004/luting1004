@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @luting1004
 - 🌱 I’m currently learning python
 
-零基础学习python  道阻且长，行则将至
+零基础学习python c++ 道阻且长，行则将至
  .
 
 <!---
